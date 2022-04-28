@@ -1,0 +1,8 @@
+.idea
+.gitattributes
+/logs/
+*.pyc
+.ipynb_checkpoints/
+*.png
+*.jpg
+*.jpeg
